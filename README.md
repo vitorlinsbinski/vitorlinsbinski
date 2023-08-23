@@ -13,6 +13,8 @@ I'm a Front End Developer with 1+ year of experience developing for web.
 - C++
 - Algorithms
 - Data Structures
+- Figma
+- User Interface Design
 
 <!--
 **vitorlinsbinski/vitorlinsbinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
