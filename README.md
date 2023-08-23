@@ -23,21 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorlinsbinski&" alt="vitorlinsbinski" /></p>
 
-## Main hard Skills
-- JavaScript
-- HTML, CSS
-- CSS Compilers (SASS)
-- GulpJS
-- Wordpress
-- ReactJS
-- TypeScript
-- Styled Components
-- C++
-- Algorithms
-- Data Structures
-- Figma
-- User Interface Design
-
 <!--
 **vitorlinsbinski/vitorlinsbinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
