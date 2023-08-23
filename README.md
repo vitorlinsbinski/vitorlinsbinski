@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vitor.linsbinski@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1eCM80xX9VFQZ-E3odOCi65cUfH33klKp/edit](https://docs.google.com/document/d/1eCM80xX9VFQZ-E3odOCi65cUfH33klKp/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1eCM80xX9VFQZ-E3odOCi65cUfH33klKp/edit](https://docs.google.com/document/d/1eCM80xX9VFQZ-E3odOCi65cUfH33klKp/edit?usp=sharing&ouid=106614586251363735341&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
