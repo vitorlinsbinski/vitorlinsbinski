@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi! I'm Vitor and I love developing user interfaces!
+I'm a Front End Developer with 1+ year of experience developing for web. 
+
+## Main hard Skills
+- JavaScript
+- HTML, CSS
+- CSS Compilers (SASS)
+- GulpJS
+- Wordpress
+- ReactJS
+- TypeScript
+- Styled Components
+- C++
+- Algorithms
+- Data Structures
 
 <!--
 **vitorlinsbinski/vitorlinsbinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
