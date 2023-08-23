@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, Data Structures, Algorithms and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vitorlinsbinski](https://github.com/vitorlinsbinski)
+- 👨‍💻 All of my projects are available at [[https://github.com/vitorlinsbinski](https://github.com/vitorlinsbinski](https://github.com/vitorlinsbinski?tab=repositories))
 
 - 📫 How to reach me **vitor.linsbinski@hotmail.com**
 
