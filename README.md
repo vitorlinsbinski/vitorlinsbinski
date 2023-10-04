@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A Frontend Developer who loves creating useful and beautiful user interfaces.</h3>
 
-- 🌱 I’m currently learning **ReactJS, TypeScript, Data Structures, Algorithms and C++**
+- 🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Data Structures, Algorithms and C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vitorlinsbinski?tab=repositories](https://github.com/vitorlinsbinski?tab=repositories)
 
