@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">A Frontend Developer who loves creating useful and beautiful user interfaces.</h3>
+<h3 align="center">A Full-Stack Developer who loves creating new things through coding</h3>
 
-- 🌱 I’m currently learning **ReactJS, NextJS, TypeScript, NodeJS, Relational Databases and Object Oriented Programming
+- 🌱 I’m currently learning **Java, Spring Boot, SQL
 
 - 👨‍💻 All of my projects are available at [https://github.com/vitorlinsbinski?tab=repositories](https://github.com/vitorlinsbinski?tab=repositories)
 
