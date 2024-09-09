@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, SQL
 
+- Pursuing a bachelor's degree in Information Systems - Computer Science 
+
 - 👨‍💻 All of my projects are available at [https://github.com/vitorlinsbinski?tab=repositories](https://github.com/vitorlinsbinski?tab=repositories)
 
 - 📫 How to reach me **vitor.linsbinski@hotmail.com**
