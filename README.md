@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineering, Python, SQL, Apache Airflow, Apache Spark, PySpark, AWS (Cloud)
 
-- 🎓 Pursuing a bachelor's degree in Information Systems - Computer Science 
+- 🎓 Pursuing a bachelor's degree in Information Systems 
 
 - 👨‍💻 All of my projects are available at [https://github.com/vitorlinsbinski?tab=repositories](https://github.com/vitorlinsbinski?tab=repositories)
 
