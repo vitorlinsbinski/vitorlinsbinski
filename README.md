@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A Full-Stack Developer who loves creating new things through coding</h3>
 
-- 🌱 I’m currently learning **Data Engineering, Python, SQL, Apache Airflow, Apache Spark, PySpark
+- 🌱 I’m currently learning **Data Engineering, Python, SQL, Apache Airflow, Apache Spark, PySpark, AWS (Cloud)
 
 - 🎓 Pursuing a bachelor's degree in Information Systems - Computer Science 
 
