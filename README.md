@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<h3 align="left">Core Data Engineering</h3>
+<h4 align="left">Core Data Engineering</h4>
 <p align="left">
   <!-- Core Data Engineering -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -33,7 +33,7 @@
   <img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" width="50" height="50"/>
 </p>
 
-<h3 align="left">Databases</h3>
+<h4 align="left">Databases</h4>
 <p align="left">
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-<h3 align="left">Cloud & Tools</h3>
+<h4 align="left">Cloud & Tools</h4>
 <p align="left">
   <!-- Cloud & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
@@ -53,13 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="50" height="50"/>
 </p>
-<h3 align="left">Extra Programming Languages</h3>
+<h4 align="left">Extra Programming Languages</h4>
 <p align="left">
   <!-- Extra Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
 </p>
-<h3 align="left">Web Development</h3>
+<h4 align="left">Web Development</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
