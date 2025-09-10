@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-<h4 align="left">Cloud & Tools</h4>
+<h4 align="left">Cloud, Infra & Tools</h4>
 <p align="left">
   <!-- Cloud & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
