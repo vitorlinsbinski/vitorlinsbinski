@@ -51,13 +51,6 @@ I'm a **Data Engineer in formation** from Brazil 🇧🇷, currently pursuing a 
 
 ---
 
-### 📊 Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vitorlinsbinski&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorlinsbinski&layout=compact&theme=default&hide_border=true" />
-
----
-
 ### 📬 Get in touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/vitorlinsbinski)
