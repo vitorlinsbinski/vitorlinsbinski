@@ -1,118 +1,65 @@
-<div align="center">
+# Hey, I'm Vitor 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vitor%20Linsbinski&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20in%20Formation&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorlinsbinski)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorlinsbinski)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vitorlinsbinski/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.linsbinski@hotmail.com)
-
-</div>
+I'm a **Data Engineer in formation** from Brazil 🇧🇷, currently pursuing a bachelor's in **Information Systems**. I love building things with data — pipelines, transformations, the whole stack.
 
 ---
 
-## 👨‍💻 About Me
+### 🧠 What I'm currently into
 
-> *"Data is the new oil — and I'm here to refine it."*
-
-I'm a **Data Engineer in formation** from Brazil, passionate about building scalable data pipelines and turning raw data into meaningful insights. I'm currently pursuing a **Bachelor's degree in Information Systems** while deepening my hands-on skills across the modern data stack.
-
-- 🔭 I'm currently working on **data pipeline projects with Apache Airflow & Spark**
-- 🌱 Actively learning **PySpark, AWS Cloud, and distributed systems**
-- 🎯 Goal: Land my first role as a Data Engineer and contribute to impactful data-driven solutions
-- ⚡ Fun fact: I also enjoy web development — I like knowing both ends of the stack
+- Building data pipelines with **Apache Airflow** and **Apache Spark**
+- Getting deeper into **PySpark** and **AWS** (S3, Glue, Redshift...)
+- Practicing SQL and algorithms consistently
+- Finishing my degree in Information Systems
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tools I work with
 
-### 🔶 Core Data Engineering
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" title="Apache Airflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" height="45" title="Apache Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="45" height="45" title="Hadoop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="45" height="45" title="Apache Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" title="Jupyter"/>
-</p>
+**Data Engineering**
 
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="45" height="45" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="45" height="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" title="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg" width="45" height="45" title="Cassandra"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-### ☁️ Cloud, Infra & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="45" height="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" width="45" height="45" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" width="45" height="45" title="Bitbucket"/>
-</p>
+**Databases**
 
-### 🌐 Web Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" title="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45" height="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
-### 🔤 Other Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++"/>
-</p>
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Web (side passion 🙃)**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vitorlinsbinski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorlinsbinski&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitorlinsbinski&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vitorlinsbinski&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorlinsbinski&layout=compact&theme=default&hide_border=true" />
 
 ---
 
-## 📚 Currently Studying
+### 📬 Get in touch
 
-```python
-currently_learning = {
-    "orchestration":  "Apache Airflow",
-    "processing":     "Apache Spark / PySpark",
-    "cloud":          "AWS (S3, Glue, Redshift, Lambda)",
-    "storage":        "Delta Lake / Data Lakehouse",
-    "degree":         "Information Systems — in progress"
-}
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-</div>
+- 💼 [LinkedIn](https://linkedin.com/in/vitorlinsbinski)
+- 📧 vitor.linsbinski@hotmail.com
+- 📄 [Resume](https://docs.google.com/document/d/1eCM80xX9VFQZ-E3odOCi65cUfH33klKp/edit)
