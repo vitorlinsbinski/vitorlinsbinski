@@ -62,4 +62,4 @@ I'm a **Data Engineer in formation** from Brazil 🇧🇷, currently pursuing a 
 
 - 💼 [LinkedIn](https://linkedin.com/in/vitorlinsbinski)
 - 📧 vitor.linsbinski@hotmail.com
-- 📄 [Resume](https://docs.google.com/document/d/1eCM80xX9VFQZ-E3odOCi65cUfH33klKp/edit)
+- 📄 [Resume](https://docs.google.com/document/d/14-F8Zkya0DYAN2mXjS8Du_gIdHVp5klo/edit?usp=sharing&ouid=103713051909007448030&rtpof=true&sd=true)
